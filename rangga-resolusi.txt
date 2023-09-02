@@ -1,0 +1,7 @@
+Resolusi ini dibuat pada 02 Agustus 2023
+1. Saya ingin bisa memahami berbagai macam materi tentang dart, dimulai dari dasar, oop, generic, package, collapse, unit test, dan juga async.
+2. Saya ingin bisa memahami materi tentang git dan github.
+3. Saya ingin bisa memahami materi tentang flutter.
+4. Saya ingin membuat projek kecil-kecilan.
+5. Saya ingin bisa mengclone salah satu aplikasi yang ingin saya tiru tampilannya seperti aplikasi budi luhur dan spotify.
+6. Saya ingin mendapatkan uang jajan dari projek yang saya kerjakan.
